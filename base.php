@@ -21,6 +21,9 @@
 	<!-- section 2 de 200 pixels e haut -->
 	<div class="section2"></div>
 
+	<!-- section 3 de 900 pixels de haut -->
+	<div class="section3"></div>
+
 	<script src=" "></script>
 </body>
 
