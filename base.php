@@ -12,6 +12,7 @@
 </head>
 
 <body>
+	<
 	<!-- header fixé et de 180 pixels de haut -->
 	<header></header>
 
@@ -23,6 +24,9 @@
 
 	<!-- section 3 de 900 pixels de haut -->
 	<div class="section3"></div>
+
+	<!-- footer de 150 pixels de haut -->
+<footer></footer>
 
 	<script src=" "></script>
 </body>
