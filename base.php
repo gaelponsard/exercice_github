@@ -13,13 +13,13 @@
 
 <body>
 	<!-- header fixé et de 180 pixels de haut -->
-	<header>
-	</header>
+	<header></header>
 
-<!-- section 1 de 800 pixels de haut -->
-	<div class="section1"><p>test</p>
-	</div>
+	<!-- section 1 de 800 pixels de haut -->
+	<div class="section1"></div>
 
+	<!-- section 2 de 200 pixels e haut -->
+	<div class="section2"></div>
 
 	<script src=" "></script>
 </body>
